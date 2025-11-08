@@ -5,7 +5,7 @@
 
 -> Uses Accelaration, Position and Gravity to differentiate between bike, scooter, walking and still
 
-Key Features -
+# Key Features -
 ## WORKS BOTH INDOORS AND OUTDOORS
 - A visual dashboard showing 2D Trajectory, Accelaration and Velocity
 - Shows Distance travelled and Step Count
