@@ -13,3 +13,5 @@
 - All the code is updated REALTIME
 - Shows 2D graphs of velocity, acceleration and motion statics
 <img width="1280" height="842" alt="image" src="https://github.com/user-attachments/assets/aadca8ce-d283-473b-a36c-2ea91f93d088" />
+
+
